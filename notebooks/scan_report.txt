@@ -1,0 +1,9 @@
+2024-09-16 16:55:31.176011: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-09-16 16:55:32.047209: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+No settings file detected at C:\Users\simant.asawale\Desktop\ProtectAI\modelscan\notebooks\modelscan-settings.toml. Using defaults. 
+
+Scanning C:\Users\simant.asawale\Desktop\ProtectAI\modelscan\notebooks\KerasModels\safe_model.h5 using modelscan.scanners.H5LambdaDetectScan model scan
+
+--- Summary ---
+
+ No issues found! 🎉
